@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule</title>
+
+    <!-- CSS -->
+    <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/mt-class.css" rel="stylesheet">   
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <!-- MathJax -->
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+  </head>
+  <body>
+    <a class="sr-only" href="#content">Skip to main content</a>
+
+    <!-- Docs master nav -->
+    <header class="navbar navbar-fixed-top navbar-default" role="banner">
+      <div class="container">
+        <div class="row">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <ul class="nav navbar-nav">
+            <li id="main_page"><a href="index.html" class="navbar-brand">LING 402 — Tools &amp; Techniques for Speech &amp; Language Processing</a></li>
+          </ul>
+        </div>
+        <nav class="collapse navbar-collapse" role="navigation">
+          <ul class="nav navbar-nav">
+            <li id="syllabus"><a href="syllabus.html">Syllabus</a></li>
+            <li id="readings"><a href="schedule.html">Schedule & Readings</a></li>
+            <li id="homework">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework<span class="caret"></span></a>
+              <ol class="dropdown-menu">
+                <li><a href="hw_daily.html">Daily HW</a></li>
+                <li><a href="hw00.html">HW00</a></li>
+                <li><a href="hw01.html">HW01</a></li>
+                <li><a href="hw02.html">HW02</a></li>
+                <li><a href="hw03.html">HW03</a></li>
+                <li><a href="hw04.html">HW04</a></li>
+<!--                <li><a href="hw5.html">HW5 (due 03 Oct)</a></li>
+-->
+              </ol>
+            </li>
+            <li id="github">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Github<span class="caret"></span></a>
+              <ol class="dropdown-menu">
+                <li><a href="https://github.com/2018-Fall-UIUC-LING402A">Section A</a></li>
+                <li><a href="https://github.com/2018-Fall-UIUC-LING402B">Section B</a></li>
+              </ol>
+            </li>
+            <li id="piazza"><a href="https://piazza.com/illinois/fall2018/ling402">Piazza</a></li>
+          </ul>
+        </nav>
+      </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 hidden-sm hidden-xs">
+          <a href="https://en.wikipedia.org/wiki/Scribe#/media/File:Escribano.jpg"> 
+          <img src="assets/img/scribe.jpg" class="img-responsive img-rounded" alt="" title="Escribano by Jean Le Tavernier. Public Domain via Wikimedia Commons."/>
+          </a> 
+          <span class="text-muted"><i></i></span>
+        </div>
+        <div class="col-sm-10">
+          <h1 id="homework-03">Homework 03</h1>
+
+<!--
+<div class="alert alert-info">
+  Due Saturday 03 September 2016 at 11:59 PM Central time.
+</div>
+
+
+Do the following:
+
+* Connect to the cl server using ssh
+* On the cl server, use git clone to clone your hw03 repository from [github](https://github.com/2016-Fall-UIUC-LING402)
+* Follow the instructions in the hw3 README file
+-->
+
+<p>This assignment requires you to practice using some of the commands from the assigned readings.</p>
+
+<p>If you are not sure what commands to use:</p>
+
+<ul>
+  <li>Try using apropos to find the relevant man page(s)</li>
+  <li>Read the relevant man page(s)</li>
+  <li>Review the relevant section of the textbook</li>
+</ul>
+
+<p>Man pages contain a wealth of relevant information. 
+Before you begin the assignment, you may find it helpful to re-read the man pages for at least the following commands:</p>
+
+<ul>
+  <li>cal</li>
+  <li>cut</li>
+  <li>grep</li>
+  <li>head</li>
+  <li>ls</li>
+  <li>mkdir</li>
+  <li>pwd</li>
+  <li>sort</li>
+  <li>tail</li>
+  <li>uniq</li>
+  <li>wc</li>
+</ul>
+
+<h3 id="use-of-git-is-required">Use of git is required</h3>
+
+<p>You are required to use git for this assignment.</p>
+
+<p>To check out the homework assignment (you’ll need to substitute the current four-digit year for YYYY, the current homework number for XX, and substitute your actual Github username):</p>
+
+<ul>
+  <li>ssh YOUR_NETID@cl.linguistics.illinois.edu</li>
+  <li>git clone https://github.com/YYYY-Fall-UIUC-LING402/YOUR_GITHUB_USERNAME-hwXX.git</li>
+</ul>
+
+<p>Your workflow should be as follows:</p>
+
+<p>First, edit one of the scripts, using the text editor of your choice.</p>
+
+<p>Next, commit your changes using git:</p>
+
+<ul>
+  <li>git add FILE_YOU_EDITED.sh</li>
+  <li>git commit -m “A BRIEF MESSAGE EXPLAINING WHAT YOU CHANGED”</li>
+  <li>git push</li>
+</ul>
+
+<p>You should follow the above steps after every edit of the file.</p>
+
+<h3 id="testing-your-scripts">Testing your scripts</h3>
+
+<p>It is your responsibility to test each script to verify that it functions correctly.</p>
+
+        </div>
+      </div>
+
+      <footer class="text-center text-muted">
+        <hr/>
+        The theme of this web site is derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.
+        All additions by Lane Schwartz may likewise be reproduced under the Creative Commons Attribution 3.0 Unported License.<br/>  
+<!--	The source code is on <a href="https://github.com/mt-class/uiuc">github<i class="fa fa-github-alt"></i></a>.<br/> -->
+        <br/><br/>
+      </footer>
+    </div>
+
+    <!-- Page content of course! -->
+    <!-- JS and analytics only. -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./dist/js/bootstrap.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $("#schedule").addClass("active");
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule</title>
+
+    <!-- CSS -->
+    <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/mt-class.css" rel="stylesheet">   
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <!-- MathJax -->
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+  </head>
+  <body>
+    <a class="sr-only" href="#content">Skip to main content</a>
+
+    <!-- Docs master nav -->
+    <header class="navbar navbar-fixed-top navbar-default" role="banner">
+      <div class="container">
+        <div class="row">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <ul class="nav navbar-nav">
+            <li id="main_page"><a href="index.html" class="navbar-brand">LING 402 — Tools &amp; Techniques for Speech &amp; Language Processing</a></li>
+          </ul>
+        </div>
+        <nav class="collapse navbar-collapse" role="navigation">
+          <ul class="nav navbar-nav">
+            <li id="syllabus"><a href="syllabus.html">Syllabus</a></li>
+            <li id="readings"><a href="schedule.html">Schedule & Readings</a></li>
+            <li id="homework">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework<span class="caret"></span></a>
+              <ol class="dropdown-menu">
+                <li><a href="hw_daily.html">Daily HW</a></li>
+                <li><a href="hw00.html">HW00</a></li>
+                <li><a href="hw01.html">HW01</a></li>
+                <li><a href="hw02.html">HW02</a></li>
+                <li><a href="hw03.html">HW03</a></li>
+                <li><a href="hw04.html">HW04</a></li>
+<!--                <li><a href="hw5.html">HW5 (due 03 Oct)</a></li>
+-->
+              </ol>
+            </li>
+            <li id="github">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Github<span class="caret"></span></a>
+              <ol class="dropdown-menu">
+                <li><a href="https://github.com/2018-Fall-UIUC-LING402A">Section A</a></li>
+                <li><a href="https://github.com/2018-Fall-UIUC-LING402B">Section B</a></li>
+              </ol>
+            </li>
+            <li id="piazza"><a href="https://piazza.com/illinois/fall2018/ling402">Piazza</a></li>
+          </ul>
+        </nav>
+      </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 hidden-sm hidden-xs">
+          <a href="https://en.wikipedia.org/wiki/Scribe#/media/File:Escribano.jpg"> 
+          <img src="assets/img/scribe.jpg" class="img-responsive img-rounded" alt="" title="Escribano by Jean Le Tavernier. Public Domain via Wikimedia Commons."/>
+          </a> 
+          <span class="text-muted"><i></i></span>
+        </div>
+        <div class="col-sm-10">
+          <h1 id="homework-00">Homework 00</h1>
+
+<!--
+<div class="alert alert-info">
+  Due Tuesday 29 August 2017 at 11:59 PM Central time.
+</div>
+-->
+
+<p>Do the following:</p>
+
+<ul>
+  <li>Sign up for a <a href="https://github.com/join?source=header-home">Github username</a></li>
+  <li>Open a <a href="https://en.wikipedia.org/wiki/Terminal_emulator">terminal</a>. On Mac OS X, this will be a program called <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">Terminal</a> in your Applications/Utilities folder. On Windows, you will likely need to download and set up a third-party program such as <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">PuTTY</a>. On Linux, this will be the <a href="https://en.wikipedia.org/wiki/GNOME_Terminal">GNOME Terminal</a> or <a href="https://en.wikipedia.org/wiki/Konsole">KDE Konsole</a>, or <a href="https://en.wikipedia.org/wiki/List_of_terminal_emulators">the equivalent</a>.</li>
+  <li>At the <a href="https://en.wikipedia.org/wiki/Command-line_interface">command line</a> within the terminal emulator, connect to the cl.linguistics.illinois.edu server using <a href="http://linuxcommand.org/man_pages/ssh1.html">ssh</a>. Your username is your NetID, and your password should be your <a href="https://techservices.illinois.edu/services/netid-password">NetID password</a>. Note: to connect to the server from off campus, you may first need to connect to the campus network using an approved <a href="https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client">VPN client</a>.</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh yourActualNetID@cl.linguistics.illinois.edu
+</code></pre></div></div>
+
+<ul>
+  <li>At the command line on the cl.linguistics.illinois.edu server, type the following command to create the file ~/.who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"WWW</span><span class="se">\t</span><span class="s2">XXX</span><span class="se">\t</span><span class="s2">YYY</span><span class="se">\t</span><span class="s2">ZZZ"</span> <span class="o">&gt;</span> ~/.who_am_I
+</code></pre></div></div>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a> to verify that you have successfully saved your changes to .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I
+</code></pre></div></div>
+
+<p>You should see this:</p>
+
+<blockquote>
+  <p>WWW	XXX	YYY	ZZZ</p>
+</blockquote>
+
+<ul>
+  <li>At the command line on the cl.linguistics.illinois.edu server, use the <a href="http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/">vi text editor</a> to open the file ~/.who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vi ~/.who_am_I
+</code></pre></div></div>
+
+<ul>
+  <li>Within the vi text editor, <a href="http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/">enter insert mode</a></li>
+</ul>
+
+<pre><code class="language-vi">i
+</code></pre>
+
+<ul>
+  <li>Replace WWW with your <a href="https://en.wikipedia.org/wiki/Surname">last name</a></li>
+  <li>Replace XXX with your <a href="https://en.wikipedia.org/wiki/Given_name">first name</a></li>
+  <li>Replace YYY with your <a href="https://netidclaim.illinois.edu/">netID</a></li>
+  <li>Replace ZZZ with your <a href="https://github.com/join?source=header-home">Github username</a></li>
+  <li>Within the vi text editor, <a href="http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/">exit insert mode</a> by pressing the Escape key on your keyboard</li>
+  <li><a href="http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/">Save your changes</a> to the file</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:w
+</code></pre></div></div>
+
+<ul>
+  <li><a href="http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/">Exit vi</a></li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>:q
+</code></pre></div></div>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a> to verify that you have successfully saved your changes to .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I
+</code></pre></div></div>
+
+<p>You should see something like this (except with your name and IDs):</p>
+
+<blockquote>
+  <p>Schwartz	Lane	lanes	dowobeha</p>
+</blockquote>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a>, <a href="http://linux.die.net/man/1/tail">tail</a>, <a href="http://linux.die.net/man/1/cut">cut</a>, and <a href="http://ryanstutorials.net/linuxtutorial/piping.php#piping">pipes</a> to verify that you have successfully recorded your <a href="https://en.wikipedia.org/wiki/Given_name">first name</a> in .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I | <span class="nb">tail</span> <span class="nt">-n</span> 1 | <span class="nb">cut</span> <span class="nt">-f</span> 2
+</code></pre></div></div>
+
+<p>You should see something like this (except with your first name):</p>
+
+<blockquote>
+  <p>Lane</p>
+</blockquote>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a>, <a href="http://linux.die.net/man/1/tail">tail</a>, <a href="http://linux.die.net/man/1/cut">cut</a>, and <a href="http://ryanstutorials.net/linuxtutorial/piping.php#piping">pipes</a> to verify that you have successfully recorded your <a href="https://en.wikipedia.org/wiki/Surname">last name</a> in .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I | <span class="nb">tail</span> <span class="nt">-n</span> 1 | <span class="nb">cut</span> <span class="nt">-f</span> 1
+</code></pre></div></div>
+
+<p>You should see something like this (except with your last name):</p>
+
+<blockquote>
+  <p>Schwartz</p>
+</blockquote>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a>, <a href="http://linux.die.net/man/1/tail">tail</a>, <a href="http://linux.die.net/man/1/cut">cut</a>, and <a href="http://ryanstutorials.net/linuxtutorial/piping.php#piping">pipes</a> to verify that you have successfully recorded your <a href="https://github.com">github</a> username in .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I | <span class="nb">tail</span> <span class="nt">-n</span> 1 | <span class="nb">cut</span> <span class="nt">-f</span> 4
+</code></pre></div></div>
+
+<p>You should see something like this (except with your Github ID):</p>
+
+<blockquote>
+  <p>dowobeha</p>
+</blockquote>
+
+<ul>
+  <li>Use <a href="http://linux.die.net/man/1/cat">cat</a>, <a href="http://linux.die.net/man/1/tail">tail</a>, <a href="http://linux.die.net/man/1/cut">cut</a>, and <a href="http://ryanstutorials.net/linuxtutorial/piping.php#piping">pipes</a> to verify that your NetID is still correctly recorded your in .who_am_I</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I | <span class="nb">tail</span> <span class="nt">-n</span> 1 | <span class="nb">cut</span> <span class="nt">-f</span> 3
+</code></pre></div></div>
+
+<p>You should see something like this (except with your netID):</p>
+
+<blockquote>
+  <p>lanes</p>
+</blockquote>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.who_am_I | <span class="nb">tail</span> <span class="nt">-n</span> 1 | <span class="nb">tr</span> <span class="s1">'\t'</span> <span class="s1">'\n'</span> | <span class="nb">wc</span> <span class="nt">-l</span>
+</code></pre></div></div>
+
+<p>You should see exactly this:</p>
+
+<blockquote>
+  <p>4</p>
+</blockquote>
+
+<p>If you see anything other than 4, or if any of the previous validation steps don’t match what you actually see, you have a problem with your file, and you will not receive credit for the assignment. The most common problem is the use of spaces instead of tabs. You must use tabs, not spaces, to separate the entries in the file.</p>
+
+<ul>
+  <li>Disconnect from the server</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">exit</span>
+</code></pre></div></div>
+
+
+        </div>
+      </div>
+
+      <footer class="text-center text-muted">
+        <hr/>
+        The theme of this web site is derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.
+        All additions by Lane Schwartz may likewise be reproduced under the Creative Commons Attribution 3.0 Unported License.<br/>  
+<!--	The source code is on <a href="https://github.com/mt-class/uiuc">github<i class="fa fa-github-alt"></i></a>.<br/> -->
+        <br/><br/>
+      </footer>
+    </div>
+
+    <!-- Page content of course! -->
+    <!-- JS and analytics only. -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./dist/js/bootstrap.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $("#schedule").addClass("active");
+      });
+    </script>
+  </body>
+</html>
