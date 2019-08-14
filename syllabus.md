@@ -11,61 +11,31 @@ active_tab: main_page
 
 * [Logistics](#logistics)
   * [Office hours](#office-hours)
-  * [Section A](#section-a)
-  * [Section B](#section-b)
   * [Required Texts and Tools](#required-texts-and-tools)
 * [Student Responsibilities](#student-responsibilities)
   * [Schedule and Readings](#schedule-and-readings)
   * [Responsibilities](#responsibilities)
   * [Expectations](#expectations)
   * [Learning Goals and Outcomes](#learning-goals-and-outcomes)
-  * [Grading](#grading)
 * [DRES](#dres)
 * [Academic Integrity](#academic-integrity)
 * [Absences and Late Work Policy](#absences-and-late-work-policy)
   * [Excused absense](#excused-absence)
   * [Makeup work](#makeup-work)
-  * [Late work](#late-work)
-  * [Penalty-free late days](#penalty-free-late-days)
   
 ## Logistics
 
 #### Office hours
-* Professor [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Tuesdays 5-6 PM in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019, and by appointment
-* TA [Omid Abdar](https://linguistics.illinois.edu/directory/profile/abdar2) - Office hours Wednesdays 2:30–3:30 in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4036, and by appointment
-
-#### Section A
-Tuesdays and Thursdays 3:30-4:50 PM, [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room G27. Section A is intended for students who have prior programming experience.
-
-#### Section B
-Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room G17. Section B is for students who have no programming experience, or who have very little programming experience.
+* Professor [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - By appointment, in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
 
 #### Required Texts and Tools
 
-* [The Linux Command Line: A Complete Introduction](https://www.nostarch.com/tlcl) by William E. Shotts, Jr.
+* A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language by Steven A. Jacobson
 
-  This book is [available for free in PDF form](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl).
-  
+* [A grammar of Central Alaskan Yupik (CAY)](http://www.library.illinois.edu/proxy/go.php?url=http://www.degruyter.com/isbn/9783110278576) by Osahito Miyaoka
 
-* [Natural Language Processing with Python](http://www.nltk.org/book) by Steven Bird, Ewan Klein, and Edward Loper
-
-   While the 1st edition of this textbook is available for purchase, this class will use the online version, which is more current.
-
-
-* [i>clicker](http://iclicker.illinois.edu/students.aspx)
-
-  This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
-  
-  
-* [Bash Reference Manual](https://www.gnu.org/software/bash/manual) by Chet Ramey and Brian Fox
-
-   This book is the authoritative reference manual for Bash. It is [available for free in PDF form](https://www.gnu.org/software/bash/manual/bash.pdf) and [other formats](https://www.gnu.org/software/bash/manual/). While the Shotts textbook will be our main source of assigned readings on the command line, this reference manual should be the first place you look when you need to look something up about Bash.
-  
-   
-* [The Python Language Reference](https://docs.python.org/3.4/reference/index.html)  edited by Guido van Rossum, et al.
-
-   This book is the authoritative reference manual for Python. It is [available for free in PDF form](https://www.python.org/ftp/python/doc/3.4.3/python-3.4.3-docs-pdf-letter.zip) and [other formats](https://www.python.org/ftp/python/doc/3.4.3/).
+   This text is available when physically on campus in electronic form at the above link through the University of Illinois library; note however that access restrictions may limit the number of students who can simultaneously access the item. This text can be purchased in print or electronic form [from the publisher](https://www.degruyter.com/view/product/181097).
 
 
 ## Student Responsibilities
@@ -73,7 +43,6 @@ Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](https://www.fs
 #### Schedule and Readings
 
 Students are expected to regularly review the schedule of assigned readings and video lectures. This schedule is subject to change.
-
 
 * Some of the material covered in readings will be covered in class.
 * Some of the material covered in readings will be covered in video lectures.
@@ -100,9 +69,9 @@ Students are expected to regularly review the schedule of assigned readings and 
 * Students are expected to actively follow along and practice the examples presented in the readings.
 * Students are expected to attentively view assigned video lectures.
 * Students are expected to attend the entirety of every class session and actively participate in the class.
-* Quiz questions may come from readings, video lectures, or other material previously covered in class.
-* Homework questions may cover material from the readings that have not been covered in class or in video lectures.
-* Homework questions may cover material from the video lectures that have not been covered in class or in the readings.
+* Homework, exam, and quiz questions may come from readings, video lectures, or other material previously covered in class.
+* Homework, exam, and quiz questions may cover material from the readings that have not been covered in class or in video lectures.
+* Homework, exam, and quiz questions may cover material from the video lectures that have not been covered in class or in the readings.
 
 
 #### Learning Goals and Outcomes
@@ -111,15 +80,16 @@ Students are expected to attend class, attentively read assigned readings, atten
 
 Students who do so are expected to attain the learning goals and outcomes.
 
-#### Grading
 <!--
+#### Grading
+
 
 * **Daily Participation**: 5%
 * **Daily Quizzes**: 5%
 * **Homework Assignments**: 70%
 * **Exam(s)**: 20%
 
--->
+
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of daily quizzes, practical exercises, homework assignments, and projects.
 
@@ -128,6 +98,7 @@ Grades will be assessed on a 10-point fixed letter grade system.
 * Programming and scripting assignments will make up approximately 75% of the overall grade.
 * Quizzes and other similar assessments will make up approximately 13% of the overall grade.
 * Daily homework and reading log will make up approximately 12% of the overall grade.
+-->
 
 ## DRES
 
@@ -184,7 +155,7 @@ Homework assignments are expected to be turned in on time. Homework turned in la
 
 For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. The solution will typically be presented on the first class period after the assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
-
+<!--
 #### Penalty-free late days
 
 However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of 3 penalty-free late days for which no late penalty will be assessed. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
@@ -202,3 +173,5 @@ Only when all of these steps have been taken prior to the deadline will a penalt
 Penalty-free late days may not be used to extend any deadline beyond the last regular day of class for the semester.
 
 Penalty-free late days may not be used to turn in work after the solution has been presented to the class.
+-->
+
