@@ -16,10 +16,16 @@
       title: Chapter 1
       author: Miyaoka
       pages: 3-17
+      length:
+         value: 15
+         unit: "pages"
     -
       title: Chapter 2
       author: Miyaoka
       pages: 18-34
+      length:
+         value: 17
+         unit: "pages"
 -
   title: Yupik
   lecturer: Lane Schwartz
