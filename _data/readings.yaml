@@ -10,13 +10,11 @@
 -
   week: 1
   date: 2019-08-29
-  title: Introduction to the shell
-  slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day02.pdf
   lecturer: Lane Schwartz
   reading:
     -
-     author: "Due at 11:59 PM"
-     title: HW00
+     author: Jacobson
+     title: "Chapters 1-2"
  -
   week: 2
   date: 2019-09-03
