@@ -20,6 +20,10 @@
   date: 2019-09-03
   title: 
   lecturer: Lane Schwartz
+  reading:
+    -
+     author: Jacobson
+     title: "Chapters 2-3"
  -
   week: 2
   date: 2019-09-05
