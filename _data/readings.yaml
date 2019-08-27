@@ -7,4 +7,12 @@
     -
       title: Syllabus
       url: syllabus.html
+-
+  week: 1
+  date: 2019-08-29
+  lecturer: Lane Schwartz
+  reading:
+    -
+      title: "Chapters 1-2"
+      author: Jacobson
 
