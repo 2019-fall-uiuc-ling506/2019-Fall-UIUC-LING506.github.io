@@ -68,8 +68,19 @@
   lecturer: Lane Schwartz
   reading:
     -
+      title: "Chapter 3: Phonological preliminaries"
+      author: Miyaoka
+      pages: 35-82
+      length:
+         value: 48
+         unit: "pages"
+    -
       author: Jacobson
-      title: "Chapters 2-3"
+      title: "Chapter 2"
+      pages: 11-16
+      length:
+         value: 6
+         unit: "pages"
 -
   title: 
   lecturer: Lane Schwartz
