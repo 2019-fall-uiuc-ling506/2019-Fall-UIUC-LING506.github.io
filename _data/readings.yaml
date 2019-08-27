@@ -13,7 +13,28 @@
   lecturer: Lane Schwartz
   reading:
     -
-      title: Chapter 1
+      title: "Front Matter: List of phonological rules"
+      author: Miyaoka
+      pages: xli-xlii
+      length:
+         value: 2
+         unit: "pages"
+    -
+      title: "Front Matter: Abbreviations and conventions"
+      author: Miyaoka
+      pages: xliii-xlix
+      length:
+         value: 7
+         unit: "pages"
+    -
+      title: "Front Matter: Maps"
+      author: Miyaoka
+      pages: l-li
+      length:
+         value: 2
+         unit: "pages"
+    -
+      title: "Chapter 1: Introductory"
       author: Miyaoka
       pages: 3-17
       length:
