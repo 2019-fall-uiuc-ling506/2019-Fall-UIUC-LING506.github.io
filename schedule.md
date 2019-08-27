@@ -40,7 +40,7 @@ active_tab: schedule
             {% if reading.grad_level %}<i class="fa-li fa fa-star"> </i>
             {% elsif reading.optional %}<i class="fa-li fa fa-info-circle"> </i>
             {% else %}<i class="fa-li fa"> </i> {% endif %}
-            {{ reading.author }},
+            {% if reading.author %}{{ reading.author }},{% endif %}
             {% if reading.url %}
             <a href="{{ reading.url }}">{{ reading.title }}</a>
             {% else %}
