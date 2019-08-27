@@ -87,15 +87,15 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 Grades will be assessed through the following tasks:
 
-* Students will read, learn, write, and teach about an endangered language which they have not previously studied
-  * Students will read primary documentation (such as a reference grammar) of the language (5%)
+* Students will read, learn, write, code, and teach about an endangered language which they have not previously studied (30%)
+  * Students will read primary documentation (such as a reference grammar) of the language
   * Students will demonstrate understanding of the material 
-     * in writing (5%)
-     * via written examination (5%)
+     * in writing
+     * via written examination
      * through teaching others
-       * in-class presentation (5%)
-       * contributing to development of a study guide (5%)
-       * creating and leading a lab exercise (5%)
+       * in-class presentation
+       * contributing to development of a study guide
+       * creating and leading a lab exercise
        
 * Students will conduct a literature review for a computational linguistics task/area (20%). This will include:
   * A bibliography in bibtex form
