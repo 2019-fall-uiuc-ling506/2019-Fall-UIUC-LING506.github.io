@@ -26,7 +26,7 @@ active_tab: main_page
 ## Logistics
 
 #### Office hours
-* Professor [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - By appointment, in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
+* Professor [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Tuesdays at 5:15 PM, in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
 
 #### Required Texts and Tools
@@ -64,7 +64,12 @@ Students are expected to regularly review the schedule of assigned readings and 
 
 #### Expectations
 
-
+* This is an advanced graduate-level course in computational linguistics.
+  * Students should have already taken LING 406 or CS 447 and have done well. 
+  * Students should be comfortable writing and debugging computer programs for computational linguistics.
+  * Students should already be comfortable with the concepts of phonetics, phonology, morphology, and syntax, as well as morphophonology and morphosyntax, and should already be able to define each of those concepts. 
+  * Students should ideally have already taken multiple core linguistics courses, such as Syntax and Phonology. Students should, for example, be able to read a formal linguistics paper, identify the interlinear gloss examples, and be able to explain what is going on in a particular interlinear gloss example. 
+  * Students should already have experience and expertise with the Linux command line. For example, students should already be very comfortable using cd, ls, mkdir, sed, and grep.
 * Students are expected to attentively read assigned readings.
 * Students are expected to actively follow along and practice the examples presented in the readings.
 * Students are expected to attentively view assigned video lectures.
@@ -74,31 +79,41 @@ Students are expected to regularly review the schedule of assigned readings and 
 * Homework, exam, and quiz questions may cover material from the video lectures that have not been covered in class or in the readings.
 
 
-#### Learning Goals and Outcomes
+#### Learning Goals, Outcomes, and Grading
 
 Students are expected to attend class, attentively read assigned readings, attentively view assigned video lectures, regularly practice the presented tools and techniques, and complete all assigned work.
 
 Students who do so are expected to attain the learning goals and outcomes.
 
-<!--
-#### Grading
+Grades will be assessed through the following tasks:
 
+* Students will read, learn, write, and teach about an endangered language which they have not previously studied
+  * Students will read primary documentation (such as a reference grammar) of the language (5%)
+  * Students will demonstrate understanding of the material 
+     * in writing (5%)
+     * via written examination (5%)
+     * through teaching others
+       * in-class presentation (5%)
+       * contributing to development of a study guide (5%)
+       * creating and leading a lab exercise (5%)
+       
+* Students will conduct a literature review for a computational linguistics task/area (20%). This will include:
+  * A bibliography in bibtex form
+  * An annotated bibliography
+  * A written document summarizing the state of the art
 
-* **Daily Participation**: 5%
-* **Daily Quizzes**: 5%
-* **Homework Assignments**: 70%
-* **Exam(s)**: 20%
+* Coding and experimentation in a computational linguistics task involving an endangered language (25%). This will include:
+  * Determining an existing state-of-the-art technique to use as a baseline.
+  * Implementing a system that extends the state-of-the-art
+  * Running experiments
+  * Writing up the experiments as a 4-page ACL paper
 
+* Extended coding, experimentation, and writing (20%)
+  * This is strongly suggested to be done in groups.
+  * This should result in a final paper written in 8-page ACL style.
 
+* Serving as a peer reviewer for other students' papers (5%)
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of daily quizzes, practical exercises, homework assignments, and projects.
-
-Grades will be assessed on a 10-point fixed letter grade system.
-
-* Programming and scripting assignments will make up approximately 75% of the overall grade.
-* Quizzes and other similar assessments will make up approximately 13% of the overall grade.
-* Daily homework and reading log will make up approximately 12% of the overall grade.
--->
 
 ## DRES
 
