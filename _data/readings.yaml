@@ -13,6 +13,13 @@
   lecturer: Lane Schwartz
   reading:
     -
+      title: "Preface"
+      author: Jacobson
+      pages: xii
+      length:
+         value: 1
+         unit: "pages"
+    -
       title: "Front Matter: List of phonological rules"
       author: Miyaoka
       pages: xli-xlii
@@ -46,6 +53,14 @@
       pages: 18-34
       length:
          value: 17
+         unit: "pages"
+    -
+      title: "Chapter 1"
+      author: Jacobson
+      pages: 1-10
+      optional: true
+      length:
+         value: 10
          unit: "pages"
 -
   title: Yupik
