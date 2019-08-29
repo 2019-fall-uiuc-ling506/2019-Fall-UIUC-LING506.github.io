@@ -65,7 +65,6 @@
          unit: "pages"
 -
   title: "Presentations on Miyaoka Chapter 1-2"
-  lecturer: Lane Schwartz
   reading:
     -
       title: "Chapter 3: Phonological preliminaries"
@@ -82,14 +81,41 @@
          value: 6
          unit: "pages"
 -
-  title: 
-  lecturer: Lane Schwartz
+  title: "Presentations on Miyaoka Chapter 3"
+  reading:
+    -
+      title: "Chapter 4: Morphological preliminaries"
+      author: Miyaoka
+      pages: 83-144
+      length:
+         value: 62
+         unit: "pages"
+    -
+      author: Jacobson
+      title: "Chapter 3"
+      pages: 17-22
+      length:
+         value: 6
+         unit: "pages"
 -
-  title: 
-  lecturer: Lane Schwartz
+  title: "Presentations on Miyaoka Chapter 4"
+  reading:
+    -
+      title: "Chapter 5: Syntactic preliminaries"
+      author: Miyaoka
+      pages: 145-186
+      length:
+         value: 42
+         unit: "pages"
+    -
+      author: Jacobson
+      title: "Chapter 4"
+      pages: 23-28
+      length:
+         value: 6
+         unit: "pages"
 -
-  title: 
-  lecturer: Lane Schwartz
+  title: "Presentations on Miyaoka Chapter 5"
 -
   title: 
   lecturer: Lane Schwartz
