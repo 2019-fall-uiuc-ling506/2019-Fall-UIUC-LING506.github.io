@@ -147,7 +147,7 @@
   title: "Miyaoka Ch. 7-9" 
   reading:
     -
-      title: "Chapter 10: Nominal inflections and ambivalent stems"
+      title: "Chapter 10: Nominal inflections"
       author: Miyaoka
       pages: 267-279
       length:
@@ -162,8 +162,38 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 10-11" 
+  reading:
+    -
+      title: "Chapter 12: Demonstratives"
+      author: Miyaoka
+      pages: 345-381
+      length:
+         value: 37
+         unit: "pages"
+    -
+      title: "Chapter 13: Personal pronouns"
+      author: Miyaoka
+      pages: 382-396
+      length:
+         value: 15
+         unit: "pages"
 -
   title: "Miyaoka Ch. 12-13"
+  reading:
+    -
+      title: "Chapter 14: Numerals & quantifiers"
+      author: Miyaoka
+      pages: 397-442
+      length:
+         value: 46
+         unit: "pages"
+    -
+      title: "Chapter 15: Ignoratives"
+      author: Miyaoka
+      pages: 443-461
+      length:
+         value: 19
+         unit: "pages"
 -
   title: "Miyaoka Ch. 14-15"
 -
