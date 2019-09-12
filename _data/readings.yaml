@@ -497,8 +497,38 @@
          unit: "pages" 
 -
   title: "Miyaoka Ch. 49-50"
+  reading:
+    -
+      title: "Chapter 51: Appositional mood"
+      author: Miyaoka
+      pages: 1415-1497
+      length:
+         value: 83
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 51"
+  reading:
+    -
+      title: "Chapter 52: Non-inflecting words"
+      author: Miyaoka
+      pages: 1501-1517
+      length:
+         value: 17
+         unit: "pages" 
+    -
+      title: "Chapter 53: Particles"
+      author: Miyaoka
+      pages: 1518-1543
+      length:
+         value: 26
+         unit: "pages" 
+    -
+      title: "Chapter 54: Enclitics"
+      author: Miyaoka
+      pages: 1544-1562
+      length:
+         value: 19
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 52-54"
 -
