@@ -32,7 +32,7 @@ Foo - {{ current_date | date: "%b %d %H:%M %s"}} - bar - batzqt - more
     <tr>
       <th class="col-xs-1">Week</th>
       <th class="col-xs-1">Date</th>
-      <th class="col-xs-1">Topic</th>
+      <th class="col-xs-2">Topic</th>
       <th class="col-xs-6">Readings</th>
       <th class="col-xs-2">Totals (approximate)</th>
     </tr>
