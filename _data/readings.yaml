@@ -143,9 +143,23 @@
       length:
          value: 9
          unit: "pages"
-
 -
   title: "Miyaoka Ch. 7-9" 
+  reading:
+    -
+      title: "Chapter 10: Nominal inflections and ambivalent stems"
+      author: Miyaoka
+      pages: 267-279
+      length:
+         value: 13
+         unit: "pages"
+    -
+      title: "Chapter 11: Nouns"
+      author: Miyaoka
+      pages: 280-344
+      length:
+         value: 65
+         unit: "pages"
 -
   title: "Miyaoka Ch. 10-11" 
 -
