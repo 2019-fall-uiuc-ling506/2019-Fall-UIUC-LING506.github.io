@@ -196,6 +196,21 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 14-15"
+  reading:
+    -
+      title: "Chapter 16: Nominal phrases"
+      author: Miyaoka
+      pages: 462-485
+      length:
+         value: 24
+         unit: "pages"
+    -
+      title: "Chapter 17: Relative clauses"
+      author: Miyaoka
+      pages: 489-562
+      length:
+         value: 74
+         unit: "pages"
 -
   title: "Miyaoka Ch. 16-17"
 -
