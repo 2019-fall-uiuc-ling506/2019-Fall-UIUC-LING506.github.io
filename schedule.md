@@ -18,7 +18,7 @@ active_tab: schedule
 {% endcapture %}
 
 <p>
-Foo - {{ current_date | date: "%b %d %H:%M %s"}} - bar - batzqt
+Foo - {{ current_date | date: "%b %d %H:%M %s"}} - bar - batzqt - more
 </p>
 
 <!-- Create a counter for the current week, set initially to zero: {% increment current_week %} -->
@@ -47,12 +47,15 @@ Foo - {{ current_date | date: "%b %d %H:%M %s"}} - bar - batzqt
         {% capture current_date %}
         {{ current_date | date: "%s" | plus : 172800 | date: "%Y-%m-%d %H:%M" }}
         {% endcapture %}
-        {% else %}
+        {% elsif current_day == "Thu" %}
         <td>Week {% increment current_week %}</td>
         <td>{{ current_date | date: "%A," }}<br/>{{ current_date | date: "%b %d %H:%M %s" }}</td>
         {% capture current_date %}
         {{ current_date | date: "%s" | plus : 432000 | date: "%Y-%m-%d %H:%M" }}
         {% endcapture %}
+        {% else %}
+        <td></td>
+        <td>{{ reading.date | date: "%A," }}<br/>{{ reading.date | date: "%b %d %H:%M %s" }}</td>
         {% endif %}      
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.title }}</a>
