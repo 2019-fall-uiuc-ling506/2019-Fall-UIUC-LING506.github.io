@@ -242,28 +242,28 @@
   title: "Miyaoka Ch. 19-20"
   reading:
     -
-      title: "Chapter 21"
+      title: "Chapter 21: Number"
       author: Miyaoka
       pages: 709-720
       length:
          value: 12
          unit: "pages"
     -
-      title: "Chapter 22"
+      title: "Chapter 22: Person"
       author: Miyaoka
       pages: 721-729
       length:
          value: 9
          unit: "pages"
     -
-      title: "Chapter 23"
+      title: "Chapter 23: Absolutive case"
       author: Miyaoka
       pages: 730-736
       length:
          value: 7
          unit: "pages"
     -
-      title: "Chapter 24"
+      title: "Chapter 24: Relative case"
       author: Miyaoka
       pages: 737-749
       length:
@@ -273,21 +273,21 @@
   title: "Miyaoka Ch. 21-24"
   reading:
     -
-      title: "Chapter 25"
+      title: "Chapter 25: Ablative-modalis case"
       author: Miyaoka
       pages: 750-768
       length:
          value: 19
          unit: "pages"
     -
-      title: "Chapter 26"
+      title: "Chapter 26: Allative case"
       author: Miyaoka
       pages: 769-778
       length:
          value: 10
          unit: "pages"
     -
-      title: "Chapter 27"
+      title: "Chapter 27: Locative case"
       author: Miyaoka
       pages: 779-812
       length:
