@@ -17,10 +17,8 @@ active_tab: schedule
 {{ site.data.dates.start }}
 {% endcapture %}
 
-{{ current_date | date: "%s" | plus : 43200 | date: "%Y-%m-%d" }}
-
 <p>
-Foo - {{ current_date }} - bar - baz
+Foo - {{ current_date }} - bar - baq
 </p>
 
 <!-- Create a counter for the current week, set initially to zero: {% increment current_week %} -->
@@ -45,7 +43,7 @@ Foo - {{ current_date }} - bar - baz
     <tr>
         {% if current_day == "Tue" %}
         <td>Week {{ current_week }}</td>
-        <td>{{ current_date | date: "%A," }}<br/>{{ current_date | date: "%b %d" }}</td>
+        <td>{{ current_date | date: "%A," }}<br/>{{ current_date }}</td>
         {% capture current_date %}
         {{ current_date | date: "%s" | plus : 172800 | date: "%Y-%m-%d" }}
         {% endcapture %}
