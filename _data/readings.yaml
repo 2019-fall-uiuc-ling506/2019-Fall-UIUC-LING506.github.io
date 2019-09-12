@@ -440,8 +440,37 @@
       length:
          value: 22
          unit: "pages" 
+    -
+      title: "Chapter 44: Negation"
+      author: Miyaoka
+      pages: 1272-1286
+      length:
+         value: 15
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 42-44"
+  reading:
+    -
+      title: "Chapter 45: Comparison"
+      author: Miyaoka
+      pages: 1287-1320
+      length:
+         value: 34
+         unit: "pages" 
+    -
+      title: "Chapter 46: Indicative mood"
+      author: Miyaoka
+      pages: 1323-1328
+      length:
+         value: 6
+         unit: "pages" 
+    -
+      title: "Chapter 47: Participial mood"
+      author: Miyaoka
+      pages: 1329-1348
+      length:
+         value: 20
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 45-48"
 -
