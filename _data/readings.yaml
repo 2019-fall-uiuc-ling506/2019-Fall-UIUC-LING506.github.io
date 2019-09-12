@@ -145,10 +145,40 @@
   title: "Miyaoka Ch. 32-34"
 -
   title: "Miyaoka Ch. 35-37"
+  reading:
+    -
+      title: "Chapter 38: Non-relational verbalizations"
+      author: Miyaoka
+      pages: 1006-1043
+      length:
+         value: 38
+         unit: "pages"  
+    -
+      title: "Chapter 39: Simplex verb modifications"
+      author: Miyaoka
+      pages: 1044-1088
+      length:
+         value: 44
+         unit: "pages"  
 -
-  title: 
+  title: "Miyaoka Ch. 38-39"
+  reading:
+    -
+      title: "Chapter 39: Simplex verb modifications"
+      author: Miyaoka
+      pages: 1088-1124
+      length:
+         value: 37
+         unit: "pages"  
+    -
+      title: "Chapter 40: Complex transitives"
+      author: Miyaoka
+      pages: 1125-1172
+      length:
+         value: 48
+         unit: "pages"  
 -
-  title: 
+  title: "Miyaoka Ch. 39-40"
 -
   title: 
 -
