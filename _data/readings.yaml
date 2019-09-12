@@ -408,8 +408,38 @@
          unit: "pages"  
 -
   title: "Miyaoka Ch. 39-40"
+  reading:
+    -
+      title: "Chapter 41: Adverbial"
+      author: Miyaoka
+      pages: 1175-1209
+      length:
+         value: 37
+         unit: "pages"  
+    -
+      title: "Chapter 42: Tense and aspect"
+      author: Miyaoka
+      pages: 1210-1221
+      length:
+         value: 12
+         unit: "pages"  
 -
   title: "Miyaoka Ch. 41-42"
+  reading:
+    -
+      title: "Chapter 42: Tense and aspect"
+      author: Miyaoka
+      pages: 1221-1249
+      length:
+         value: 29
+         unit: "pages" 
+    -
+      title: "Chapter 43: Modality"
+      author: Miyaoka
+      pages: 1250-1271
+      length:
+         value: 22
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 42-44"
 -
