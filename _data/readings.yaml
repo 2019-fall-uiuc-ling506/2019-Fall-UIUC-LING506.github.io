@@ -240,6 +240,35 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 19-20"
+  reading:
+    -
+      title: "Chapter 21"
+      author: Miyaoka
+      pages: 709-720
+      length:
+         value: 12
+         unit: "pages"
+    -
+      title: "Chapter 22"
+      author: Miyaoka
+      pages: 721-729
+      length:
+         value: 9
+         unit: "pages"
+    -
+      title: "Chapter 23"
+      author: Miyaoka
+      pages: 730-736
+      length:
+         value: 7
+         unit: "pages"
+    -
+      title: "Chapter 24"
+      author: Miyaoka
+      pages: 737-749
+      length:
+         value: 13
+         unit: "pages"
 -
   title: "Miyaoka Ch. 21-24"
 -
