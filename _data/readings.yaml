@@ -121,6 +121,29 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 5-6"
+  reading:
+    -
+      title: "Chapter 7: Segmental adjustments"
+      author: Miyaoka
+      pages: 195-219
+      length:
+         value: 25
+         unit: "pages"
+    -
+      title: "Chapter 8: Prosody"
+      author: Miyaoka
+      pages: 220-254
+      length:
+         value: 35
+         unit: "pages"
+    -
+      title: "Chapter 9: Post-prosodic adjustments"
+      author: Miyaoka
+      pages: 255-263
+      length:
+         value: 9
+         unit: "pages"
+
 -
   title: "Miyaoka Ch. 7-9" 
 -
