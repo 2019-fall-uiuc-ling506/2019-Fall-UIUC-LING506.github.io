@@ -326,6 +326,28 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 28-31"
+  reading:
+    -
+      title: "Chapter 32: Verb inflection"
+      author: Miyaoka
+      pages: 867-878
+      length:
+         value: 12
+         unit: "pages"
+    -
+      title: "Chapter 33: Intransitive stems"
+      author: Miyaoka
+      pages: 879-897
+      length:
+         value: 19
+         unit: "pages"
+    -
+      title: "Chapter 34: Transitive stems"
+      author: Miyaoka
+      pages: 898-939
+      length:
+         value: 42
+         unit: "pages"
 -
   title: "Miyaoka Ch. 32-34"
 -
