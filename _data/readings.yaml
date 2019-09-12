@@ -480,6 +480,21 @@
          unit: "pages" 
 -
   title: "Miyaoka Ch. 45-48"
+  reading:
+    -
+      title: "Chapter 49: Optative mood"
+      author: Miyaoka
+      pages: 1362-1383
+      length:
+         value: 22
+         unit: "pages" 
+    -
+      title: "Chapter 50: Connective mood"
+      author: Miyaoka
+      pages: 1384-1414
+      length:
+         value: 31
+         unit: "pages" 
 -
   title: "Miyaoka Ch. 49-50"
 -
