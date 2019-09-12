@@ -62,7 +62,7 @@
          value: 10
          unit: "pages"
 -
-  title: "Presentations on Miyaoka Chapters 1-2"
+  title: "Miyaoka Ch. 1-2"
   reading:
     -
       title: "Chapter 3: Phonological preliminaries"
@@ -79,7 +79,7 @@
          value: 6
          unit: "pages"
 -
-  title: "Presentations on Miyaoka Chapter 3"
+  title: "Miyaoka Ch. 3"
   reading:
     -
       title: "Chapter 4: Morphological preliminaries"
@@ -96,7 +96,7 @@
          value: 6
          unit: "pages"
 -
-  title: "Presentations on Miyaoka Chapter 4"
+  title: "Miyaoka Ch. 4"
   reading:
     -
       title: "Chapter 5: Syntactic preliminaries"
