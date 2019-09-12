@@ -19,6 +19,10 @@ active_tab: schedule
 
 {{ current_date | date: "%s" | plus : 43200 | date: "%Y-%m-%d" }}
 
+<p>
+Foo - {{ current_date }} - bar
+</p>
+
 <!-- Create a counter for the current week, set initially to zero: {% increment current_week %} -->
 
 {% assign allpagetotal = 0 %}
