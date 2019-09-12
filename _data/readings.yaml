@@ -213,8 +213,31 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 16-17"
+  reading:
+    -
+      title: "Chapter 18: Nominal clauses"
+      author: Miyaoka
+      pages: 563-630
+      length:
+         value: 68
+         unit: "pages"
 -
   title: "Miyaoka Ch. 18"
+  reading:
+    -
+      title: "Chapter 19: Other deverbal nouns"
+      author: Miyaoka
+      pages: 631-645
+      length:
+         value: 15
+         unit: "pages"
+    -
+      title: "Chapter 20: Nominal elaborations"
+      author: Miyaoka
+      pages: 646-705
+      length:
+         value: 60
+         unit: "pages"
 -
   title: "Miyaoka Ch. 19-20"
 -
