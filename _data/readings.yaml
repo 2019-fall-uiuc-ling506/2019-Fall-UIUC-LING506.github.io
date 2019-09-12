@@ -121,6 +121,8 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 5-6"
+-
+  title: "Current research" 
   reading:
     -
       title: "Chapter 7: Segmental adjustments"
@@ -143,9 +145,6 @@
       length:
          value: 9
          unit: "pages"
--
-  title: "Current research" 
-  reading:
     -
       title: "Chapter 10: Nominal inflections"
       author: Miyaoka
