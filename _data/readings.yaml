@@ -295,6 +295,35 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 25-27"
+  reading:
+    -
+      title: "Chapter 28: Perlative case"
+      author: Miyaoka
+      pages: 813-818
+      length:
+         value: 6
+         unit: "pages"
+    -
+      title: "Chapter 29: Equalis case"
+      author: Miyaoka
+      pages: 819-825
+      length:
+         value: 7
+         unit: "pages"
+    -
+      title: "Chapter 30: Case assignments"
+      author: Miyaoka
+      pages: 826-858
+      length:
+         value: 33
+         unit: "pages"
+    -
+      title: "Chapter 31: Vocatives"
+      author: Miyaoka
+      pages: 859-863
+      length:
+         value: 5
+         unit: "pages"
 -
   title: "Miyaoka Ch. 28-31"
 -
