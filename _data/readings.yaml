@@ -271,6 +271,28 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 21-24"
+  reading:
+    -
+      title: "Chapter 25"
+      author: Miyaoka
+      pages: 750-768
+      length:
+         value: 19
+         unit: "pages"
+    -
+      title: "Chapter 26"
+      author: Miyaoka
+      pages: 769-778
+      length:
+         value: 10
+         unit: "pages"
+    -
+      title: "Chapter 27"
+      author: Miyaoka
+      pages: 779-812
+      length:
+         value: 34
+         unit: "pages"
 -
   title: "Miyaoka Ch. 25-27"
 -
