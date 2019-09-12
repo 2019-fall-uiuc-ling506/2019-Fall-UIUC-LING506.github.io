@@ -350,6 +350,28 @@
          unit: "pages"
 -
   title: "Miyaoka Ch. 32-34"
+  reading:
+    -
+      title: "Chapter 35: Ditransitive stems"
+      author: Miyaoka
+      pages: 940-971
+      length:
+         value: 32
+         unit: "pages"
+    -
+      title: "Chapter 36: Root-derived stems"
+      author: Miyaoka
+      pages: 972-980
+      length:
+         value: 9
+         unit: "pages"
+    -
+      title: "Chapter 37: Relational verbs"
+      author: Miyaoka
+      pages: 983-1005
+      length:
+         value: 23
+         unit: "pages"
 -
   title: "Miyaoka Ch. 35-37"
   reading:
